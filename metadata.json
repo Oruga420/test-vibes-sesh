@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Creative Suite",
+  "description": "An all-in-one application to edit and analyze images, and chat with an intelligent assistant powered by Gemini. Get up-to-date information with Google Search and Maps grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
